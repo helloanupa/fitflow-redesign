@@ -2,7 +2,7 @@
 
 IT3060 – Human Computer Interaction | Lab Exercise 05
 SLIIT, Year 3, Semester 2, 2026
-Campus: Malabe Campus | Name: Wijeratne W M D N | IT No: it23566798
+Campus: Malabe Campus | Name: Amarasekara A D | IT No: it23547674
 
 ## Overview
 
