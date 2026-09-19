@@ -111,4 +111,4 @@ independent-deployment approach described in ADR-001.
 
 ## Repository
 
-https://github.com/detunu238-tech/fitflow-redesign
+https://github.com/helloanupa/fitflow-redesign.git
